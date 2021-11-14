@@ -1,0 +1,21 @@
+
+           WEEKLY REPORT NOVEMBER 8 TO NOVEMBER 12
+
+Topics covered
+
+Nov 8 (Monday):
+    -1.Carousel
+    -2.Navigation Bar
+
+Nov 9 (Tuesday):
+    -1.Modal
+    -2.Tooltip
+    3.PopOver
+    -4.Toast
+    -5.Pagination
+
+Nov 10 (Wednesday):
+    -1.Bootstrap Card
+
+Nov 11 (Thursday) and Nov 12(Friday):
+    -Task-Responsive Shopping Site
